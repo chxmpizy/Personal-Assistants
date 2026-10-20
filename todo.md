@@ -1,0 +1,2 @@
+- [] build personal asistants for personal brand
+- [x] build 
