@@ -1,2 +1,2 @@
-- [] build personal asistants for personal brand
-- [x] build 
+- [ ] build personal asistants for personal brand
+- [x] build Startup Strategy agents 
